@@ -163,7 +163,7 @@ ul li a:hover {
 #social-links a:hover {
   background: var(--highlight-color);
 }
-
+/* Footer */
 footer {
   padding: 24px;
   text-align: center;
