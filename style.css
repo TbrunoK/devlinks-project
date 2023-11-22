@@ -170,6 +170,14 @@ footer {
   font-size: 14px;
 }
 
+footer a.creator{
+  color: rgba(141, 122, 224, 0.945);
+}
+
+.light a.creator {
+  color: rgb(14, 36, 231);
+}
+
 /*  nedua queries */
 @media (min-width: 700px) {
   :root {
