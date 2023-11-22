@@ -171,11 +171,12 @@ footer {
 }
 
 footer a.creator{
-  color: rgba(141, 122, 224, 0.945);
+  color: rgba(63, 46, 141, 0.945);
 }
 
 .light a.creator {
-  color: rgb(14, 36, 231);
+  color: rgba(14, 36, 231, 0.966);
+  
 }
 
 /*  nedua queries */
