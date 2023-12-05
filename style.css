@@ -171,12 +171,12 @@ footer {
 }
 
 footer a.creator{
-  color: rgba(14, 206, 231, 0.74);
+  color: rgba(5, 217, 245, 0.74);
   font-size: 18px;
 }
 
 .light a.creator {
-  color: rgba(14, 206, 231, 0.74);
+  color: hsla(187, 89%, 32%, 0.761)
   
 }
 
