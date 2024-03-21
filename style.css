@@ -55,7 +55,7 @@ body * {
 
 .light #profile img {
   width: 112px;
-  Margin: auto
+  margin: auto;
 }
 
 #profile p {
@@ -176,7 +176,7 @@ footer {
 }
 
 footer a.creator {
-  color: rgba(5, 217, 245, 0.74);
+  color: rgba(0, 225, 255, 0.987);
   font-size: 18px;
 }
 
